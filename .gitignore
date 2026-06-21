@@ -1,0 +1,8 @@
+*.json
+backups/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
